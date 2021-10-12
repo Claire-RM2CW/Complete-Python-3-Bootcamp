@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T05:50:12.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="83uyUg-yWSywXPBKK2A4" version="15.4.3" type="github"><diagram id="UNergNC2OLfItv41fkSV" name="Page-1">1ZnZUtswFIafJjPhAsZL7JhLshToQMs0UC47iq3YamXJyDJOePpKWM5ms3RAjnqTOP+RFeX/fLSc9NxxujxnIEuuaQRxz7GiZc+d9BznNAjEqxRWleD5fiXEDEWVZG+EGXqCSrSUWqAI5jsNOaWYo2xXDCkhMOQ7GmCMlrvNFhTvfmsGYtgQZiHATfUeRTyp1MCzNvoFRHFSf7NtqUgK6sZKyBMQ0XJLcqc9d8wo5dVVuhxDLL2rfanu+/JCdD0wBgl/zw3fI/d38OOOlDeB9fDzq5MWF96xU/XyCHChfnDP8bHob7SgolthGAirgP9QyJGOblEqeDjWN1iK1x80BWQTFFexfL+HOKQpFA2uYZ5Li1WvYnhVx1U75Qxf1XYzWpAIyhHbIlwmiMNZVg2hFM+X0BKeYhVuOqBMeYSMw+WWpBw5h2JQnK1EExV1fa+6pdzAtS2lJVtgB4oiUM9TvO5qY7m4UK7/AwFXD4EbhkLp/yV5KJAcpuH+r9b5c2AeAz08zua0kHff5aai8IcnprHw9LAYAxwWGHBERdC6YTRmIDUVy7BeP4yh4utaM+YieAVIhEgsuZi4bNQQgiaEodUhg6GuzOAAU+n+hJYEUxAZR0BFg72saAESdAkk0APknIrYCIR/enIa8EEqnSTzXL71t3ZZeXxkKil76OwvLC2wTruEddqANSUxRnlycLP2n2vv0JN9vdpseXW9AiQF7OBeDTzTvLIbXn3SXp5GRcj389/UhF/n8muLpSYuk8BxyeIqfApv7XS8uJ2HT7+ONWGZQfYoDlk6N/QN01vQvJwfztvTbqccNBUb7nIoJiNx0s2KF3NkzurW/VGBsNpiXpIFPWo2MRWoZ+0mVtuMp2sdbQWqqXYxpiQvMK8PaGdZRhHhKXxG8Z+w8t/BStcGtZWVprqGGRvUj6WV//Z61WlaaSp7vIbqM6X+Xu3RWPAD27Ac1VRZGWFA3g+9P4Hy2G9NSWQsOXfwNjm/S3La6jHdVio/BMXx9w/6rVjWZeZOwGiqywgw2FQOduCeDDsEIT5u/sV8jm39FexO/wI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-12T06:29:20.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="NvyZwtALpu-B6Wnid2Eo" version="15.4.3" type="github">
+  <diagram id="UNergNC2OLfItv41fkSV" name="Page-1">
+    <mxGraphModel dx="988" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Welcome Message&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Price Inquiry&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="110" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;About Us&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="67.5" y="110" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculation Program&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="110" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Web Landing Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Catalog Download&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="180" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Go Back &amp;nbsp;(Welcome Msg)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="172.5" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-9" value="English" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="50" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-10" value="Myanmar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="50" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Od3j8RUnwP80qVJ2muH5-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Product&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="180" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="180" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;User Input&amp;nbsp;&lt;br&gt;(Building Info)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="250" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Consultation Appointment&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Go Back &amp;nbsp;(Welcome Msg)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Go Back &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(Price Inquiry)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Blank &amp;nbsp; &amp;nbsp; (Dead End)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Calculation Program&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="262.5" y="250" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D823nfLczcT1mCfTbcz_-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Call&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="183.75" y="250" width="67.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDT_QTewnjZ4JU5qoe65-1" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="230" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
